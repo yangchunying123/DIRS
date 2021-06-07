@@ -1,1 +1,1 @@
-skjagfaghf
+This is the repository created to give an overview of DIRS platform built in Tsinghua university. Here we provide pictures and videos to present it in an intuitionistic way.
